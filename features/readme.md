@@ -1,0 +1,1 @@
+Project to the Testing and Dynamic Analysis course that provides some basic Behaviour Driven Development tests for an OpenCart E-Shop. The Test Scenarios are developed in Python using Selenium module.
